@@ -1,1 +1,2 @@
 Main feature
+print("Hi")
